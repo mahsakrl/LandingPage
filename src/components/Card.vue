@@ -56,9 +56,24 @@ h4 {
   text-align: left;
   color: hsl(257, 7%, 63%);
 }
-@media screen and (min-width: 800px) {
-  .card-img{
-    margin-left: 35%;
+@media screen and (max-width: 800px) {
+  .card-box {
+  width: 250px;
+  height: 300px;}
+  .card-img {
+  margin-left: 85px;
   }
+}
+@media screen and (max-width: 283px) {
+.card-box {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  border-radius: 6px;
+}
+h4 {
+  text-align: left;
+  padding-left: 10px;
+}
 }
 </style>
