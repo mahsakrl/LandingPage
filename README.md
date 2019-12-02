@@ -1,5 +1,7 @@
+# Frontend Mentor
 # landingpage
-
+![Landing](./src/assets/designs/desktop-design.jpg)
+![Landing]('./src/assets/designs/mobile-design.jpg')
 ## Project setup
 ```
 npm install
