@@ -203,7 +203,7 @@ p,
 li,
 div,
 button {
-  font-family: 'Poppins';
+  font-family: 'Roboto';
 }
 ul {
   list-style-type: none;
@@ -336,12 +336,15 @@ ul {
   flex-flow: column;
   padding-left: 100px;
   h1 {
-    font-size: 20px;
-    font-weight: 900;
+    font-size: 50px;
+    font-weight: 800;
+    width:500px;
+    letter-spacing:0.1mm ;
   }
   p {
     font-size: 15px;
     font-weight: 400;
+    width:350px;
     color: hsl(0, 0%, 75%);
   }
 }
