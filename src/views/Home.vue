@@ -218,7 +218,7 @@ ul {
 }
 .home {
   width: 100%;
-  height: 100vh;
+  // height: 100vh;
   display: flex;
   align-items: center;
   flex-flow: column;
@@ -477,7 +477,7 @@ li:hover {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .mobile {
     display: inline;
   }
